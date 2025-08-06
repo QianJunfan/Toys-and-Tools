@@ -1,4 +1,4 @@
-# CS Little Projects
+# Projects
 
 A collection of small computer science projects.
 
