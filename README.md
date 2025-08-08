@@ -15,7 +15,7 @@ Just some fun projects I've been working on in my spare time 😊
 * **Status**: In progress (10% complete) 🚧
 
 ### Pinc - A Simplified Ping Tool in C
-* **Description**: A basic command-line network utility that sends ICMP packets to a specified host to check connectivity.
+* **Description**: A basic command-line network utility that sends ICMP packets to a specified host to check connectivity (for macOS).
 * **Status**: Complete ✅
 * **Usage**:
     * **Compile**: `gcc pinc.c -o pinc`
