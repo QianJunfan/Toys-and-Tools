@@ -14,7 +14,7 @@ Just some fun projects I've been working on in my spare time 😊
 * **Description**: A system information display tool for macOS, inspired by Neofetch.
 * **Status**: In progress (10% complete) 🚧
 
-### pinc - A Simplified Ping Tool in C
+### Pinc - A Simplified Ping Tool in C
 * **Description**: A basic command-line network utility that sends ICMP packets to a specified host to check connectivity.
 * **Status**: Complete ✅
 * **Usage**:
