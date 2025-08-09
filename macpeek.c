@@ -429,7 +429,7 @@ void UI(Info info) {
 
     printf("        \033[1mMemory:\033[0m %s\n",     (info.Memory     != NULL)  ? info.Memory     : "Unkown");
     printf("\n");
-    printf("        %sStandard Colors     High Intensity Colors%s \n\n", BOLD, RESET);
+    printf("        %sStandard Colors         High Intensity Colors%s \n\n", BOLD, RESET);
         
 
     printf("        \033[40m   \033[0m");
