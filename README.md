@@ -1,6 +1,6 @@
 ***
 
-# Personal Projects
+# My Side Projects⬇️
 
 Just some fun projects I've been working on in my spare time 😊
 
