@@ -4,8 +4,6 @@
 
 Just some fun projects I've been working on in my spare time 😊
 
-## Projects
-
 ### 65c2 - 6502 Emulator in C
 * **Description**: A work-in-progress emulator for the 6502 microprocessor.
 * **Status**: In progress (5% complete) 🚧
