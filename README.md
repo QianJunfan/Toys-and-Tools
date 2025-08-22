@@ -1,7 +1,7 @@
 ***
 # My Side Projects⬇️
 
-Just some fun projects I've been working on in my spare time 😊
+It's just a bunch of little programs I'm making for fun and practice, so the code isn't very good.😊
 
 ### 65c2 - 6502 Emulator in C
 * **Description**: A work-in-progress emulator for the 6502 microprocessor.
