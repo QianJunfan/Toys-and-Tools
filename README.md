@@ -24,5 +24,7 @@ Just some fun projects I've been working on in my spare time 😊
     * **Run**: `sudo ./pinc google.com`
     * **Note**: `sudo` is required to create a raw socket for ICMP packet operations.
 
+<img src="pic/MacPeek.png" width="377" height="357" alt="screenshot">
+
 ## Contributing
 Contributions and suggestions are welcome! Please open an issue to discuss any changes.
