@@ -9,6 +9,7 @@ Just some fun projects I've been working on in my spare time 😊
 * **Status**: In progress (5% complete) 🚧
 
 ### MacPeek - System Information Tool
+![screenshot](pic/MacPeek.png)
 * **Description**: A system information display tool for macOS, inspired by Neofetch.
 * **Status**: Complete ✅
 * **Usage**:
