@@ -22,9 +22,9 @@ Just some fun projects I've been working on in my spare time 😊
 * **Usage**:
     * **Compile**: `gcc pinc.c -o pinc`
     * **Run**: `sudo ./pinc google.com`
-    * **Note**: `sudo` is required to create a raw socket for ICMP packet operations.
+    * **Note**: You will need `sudo` to create a raw socket for ICMP packet operations, and a terminal that supports 24-bit color is required.
 
-<img src="pic/MacPeek.png" width="377" height="357" alt="screenshot">
+<img src="pic/Pinc.png" width="377" height="357" alt="screenshot">
 
 ## Contributing
 Contributions and suggestions are welcome! Please open an issue to discuss any changes.
