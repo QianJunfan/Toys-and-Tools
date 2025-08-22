@@ -1,5 +1,4 @@
 ***
-
 # My Side Projects⬇️
 
 Just some fun projects I've been working on in my spare time 😊
@@ -21,9 +20,9 @@ Just some fun projects I've been working on in my spare time 😊
 * **Description**: A basic command-line network utility that sends ICMP packets to a specified host to check connectivity (for macOS).
 * **Status**: Complete ✅
 * **Usage**:
-    * **Compile**: `gcc pinc.c -o pinc`
-    * **Run**: `sudo ./pinc google.com`
-    * **Note**: `sudo` is required to create a raw socket for ICMP packet operations.
+    * **Compile**: `gcc pinc.c -o pinc`
+    * **Run**: `sudo ./pinc google.com`
+    * **Note**: `sudo` is required to create a raw socket for ICMP packet operations.
 ***
 
 ## Contributing
