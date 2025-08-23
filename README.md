@@ -10,7 +10,7 @@ It's just a bunch of little programs I'm making for fun and practice, so the cod
     * **Compile**: `gcc 65c2.c -o 65c2`
     * **Run**: `./65c2` (test case)
    
-<img src="pic/65c2.png" width="394" height="317" alt="screenshot">
+<img src="pic/65c2.png" width="317" height="394" alt="screenshot">
 
 ### MacPeek - System Information Tool
 * **Description**: A system information display tool for macOS, inspired by Neofetch.
