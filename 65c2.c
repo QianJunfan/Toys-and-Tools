@@ -8,6 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#include <stdint.h>
 
 /* MARK: 65o2 Emulator in C */
 // NVUBDIZC
